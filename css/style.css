@@ -16,5 +16,6 @@ body {
     padding: 15px 15px;
     border-radius: 50%;
     border: none;
-    background: rgba(64, 255, 131, 0.34);
+    color: white;
+    /*background: #abad23;*/
 }
